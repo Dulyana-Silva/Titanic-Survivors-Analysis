@@ -1,5 +1,10 @@
 # Titanic-Survivors-Analysis
-This project involves analyzing the famous Titanic passenger dataset to predict which passengers survived the tragic sinking of the Titanic in 1912.
+
+## What Is the Titanic Dataset?
+The Titanic dataset contains information about the passengers aboard the RMS Titanic, which famously sank in 1912.
+It’s used to predict survival based on characteristics like age, sex, ticket class, etc.
+
+
 
 ### About this file
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
